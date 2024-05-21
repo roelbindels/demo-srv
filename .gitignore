@@ -1,0 +1,15 @@
+# Everything about Python
+/.cache
+/Exercises
+/build
+
+*.egg-info
+__pycache__
+*_venv
+*.log
+
+# Tests
+.coverage*
+htmlcov
+.env
+.venv
